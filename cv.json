@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Javier Alejandro Castro Velázquez",
+    "label": "Desarrollador Web",
+    "image": "https://casttro.mx/img/profile.webp",
+    "email": "javiercastro27@outlook.es",
+    "phone": "3330178915",
+    "url": "https://casttro.mx",
+    "summary": "Hola, soy Javier Castro, un Desarrollador Web creativo apasionado por diseñar sitios web únicos y funcionales. Tengo experiencia en desarrollo tanto front-end como back-end, lo que me permite ayudar a las empresas a dejar una impresión duradera en línea. Me destaco por ser lógico y orientado a los resultados, construyendo y optimizando sitios web enfocados en los usuarios.",
+    "location": {
+      "address": "",
+      "postalCode": "44240",
+      "city": "Zapopan",
+      "countryCode": "MX",
+      "region": "Jalisco"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "j-castro27",
+        "url": "https://www.linkedin.com/in/j-castro27"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Farmacias Guadalajara",
+      "position": "Desarrollador de Software",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "summary": "Alcanzó hitos del proyecto manteniendo rigurosos estándares de control de calidad en todas las etapas del ciclo de desarrollo.",
+      "highlights": [
+        "Integré programas constructivos en un producto cohesivo.",
+        "Colaboré en etapas del ciclo de vida del desarrollo de sistemas desde la recopilación de requisitos hasta los lanzamientos de producción.",
+        "Participé en pruebas de campo para verificar el rendimiento de los proyectos desarrollados."
+      ]
+    },
+    {
+      "name": "FORZAC CONCRETOS",
+      "position": "Desarrollador Web",
+      "startDate": "2022-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Obtuve una sólida comprensión de las principales tecnologías web y móviles.",
+      "highlights": [
+        "Desarrollé y mantuve aplicaciones web y móviles.",
+        "Trabajé con HTML, CSS, JavaScript y lenguajes como Java y C#."
+      ]
+    },
+    {
+      "name": "IDEFT",
+      "position": "Ingeniero en Sistemas Computacionales",
+      "startDate": "2020-09-01",
+      "endDate": "2022-11-01",
+      "summary": "Colaboré en la creación de contenido y en el desarrollo de su sitio web.",
+      "highlights": [
+        "Reflejé los valores del instituto en redes sociales."
+      ]
+    },
+    {
+      "name": "Emblemas 3D México",
+      "position": "Gerente de Sistemas Informáticos",
+      "startDate": "2019-07-01",
+      "endDate": "2020-10-01",
+      "summary": "Aproveché al máximo mis habilidades en cada proyecto asignado.",
+      "highlights": [
+        "Construí sistemas ERP con PHP y MySQL.",
+        "Completé múltiples tareas en los plazos establecidos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro Bachillerato Tecnológico Industrial y de Servicios #246",
+      "area": "Técnico en Programación de Computadoras",
+      "studyType": "Diploma",
+      "startDate": "2015-01-01",
+      "endDate": "2018-05-01",
+      "score": "98",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Cuauhtémoc",
+      "area": "Ingeniero en Sistemas Computacionales",
+      "studyType": "Grado",
+      "startDate": "2018-05-01",
+      "endDate": "2022-05-01",
+      "score": "95",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Curso de Gestión Efectiva del Tiempo",
+      "date": "2022-05-01",
+      "issuer": "82efd48c-f409-4c51-ab5f-3f24868b3c9c",
+      "url": "https://platzi.com/p/javiercastro27/course/1749-gestion-tiempo/diploma/detalle/"
+    },
+    {
+      "name": "Curso de Desarrollador Front-end",
+      "date": "2023-01-01",
+      "issuer": "8b0faa3e-43b1-464d-94f3-68686e3e0724",
+      "url": "https://platzi.com/p/javiercastro27/curso/2467-frontend-developer/diploma/detalle/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Bases de datos",
+      "level": "",
+      "keywords": ["MySQL", "SQL Server"]
+    },
+    {
+      "name": "Back-end",
+      "level": "",
+      "keywords": ["ASP.NET", "Spring Boot Java"]
+    },
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": ["React", "Vue", "Angular", "Astro"]
+    },
+    {
+      "name": "Desarrollo de aplicaciones web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mejora del rendimiento",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Habilidades analíticas",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "awards": [],
+  "volunteer": []
+}
