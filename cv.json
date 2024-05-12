@@ -105,33 +105,33 @@
   "skills": [
     {
       "name": "Bases de datos",
-      "level": "",
+      "level": "Avanzado",
       "keywords": ["MySQL", "SQL Server"]
     },
     {
       "name": "Back-end",
-      "level": "",
+      "level": "Avanzado",
       "keywords": ["ASP.NET", "Spring Boot Java"]
     },
     {
       "name": "Front-end",
-      "level": "",
+      "level": "Experto",
       "keywords": ["React", "Vue", "Angular", "Astro"]
     },
     {
       "name": "Desarrollo de aplicaciones web",
-      "level": "",
-      "keywords": []
+      "level": "Experto",
+      "keywords": ["Diseño de sistemas", "Arquitectura web", "Desarrollo ágil"]
     },
     {
       "name": "Mejora del rendimiento",
-      "level": "",
-      "keywords": []
+      "level": "Avanzado",
+      "keywords": ["Optimización de código", "Escalabilidad de sistemas", "Auditorías de rendimiento"]
     },
     {
       "name": "Habilidades analíticas",
-      "level": "",
-      "keywords": []
+      "level": "Avanzado",
+      "keywords": ["Análisis de datos", "Resolución de problemas", "Pensamiento crítico"]
     }
   ],
   "languages": [
@@ -144,9 +144,23 @@
       "fluency": "Avanzado"
     }
   ],
-  "interests": [],
-  "references": [],
-  "projects": [],
-  "awards": [],
-  "volunteer": []
+  "interests": [
+    {
+      "name": "Tecnología",
+      "keywords": ["Innovaciones tecnológicas", "Gadgets", "Desarrollo de software"]
+    },
+    {
+      "name": "Deportes",
+      "keywords": ["Fútbol", "Baloncesto"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portal de Gestión de Proyectos",
+      "isActive": true,
+      "description": "Desarrollo de un portal para la gestión integral de proyectos, incluyendo módulos de planificación, seguimiento y reportes.",
+      "highlights": ["Gestión de múltiples equipos", "Implementación de mejores prácticas de PMO"],
+      "url": "https://gestionproyectos.mx"
+    }
+  ]
 }
